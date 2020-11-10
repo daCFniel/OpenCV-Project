@@ -1,2 +1,2 @@
 # OpenCV-project
-simple console app made by Daniel B.
+console app made by Daniel B.
